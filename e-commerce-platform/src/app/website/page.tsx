@@ -9,14 +9,12 @@ import BestProducts from "./components/BestProducts";
 import ExploreProducts from "./components/ExploreProducts";
 import NewArrival from "./components/NewArrival";
 import Footer from "../sharedComponent/Footer";
-import Login from "../login/page";
-import Signup from "../signup/page";
+
 
 const WebHome =() =>{
     return(
         <div>
-            <Login/>
-            <Signup/>
+          
             <Header/>
             <Navbar/>
             <div className="flex">

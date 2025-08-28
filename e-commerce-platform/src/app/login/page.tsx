@@ -32,7 +32,7 @@ const Login = () => {
               className="w-full py-5 bg-transparent border-b border-gray-400 focus:outline-none  placeholder-gray-500" />
             <div className="flex py-6 justify-between">
               <div className="bg-pink-700 w-30">
-               <Link href='/home' ><Button
+               <Link href='/website' ><Button
                   buttonText="Log in"
                   variant=""
                   onclickHandler={() => alert('You have successfully logged in')}
