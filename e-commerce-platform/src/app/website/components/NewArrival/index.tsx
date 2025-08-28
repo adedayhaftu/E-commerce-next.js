@@ -38,7 +38,7 @@ const NewArrival = () => {
                             className="rounded-lg w-full "
                         />
                         <div className="absolute bottom-13 left-6 text-white">
-                            <h3 className="font-bold text-4xl mb-4">Women's Collections</h3>
+                            <h3 className="font-bold text-4xl mb-4">Women&apos; Collections</h3>
                             <p className="text-lg mb-2">Featured woman collections that<br/>give you another vibe.</p>
                             <p className="underline flex mt-3">Shop Now </p>
                         </div>
